@@ -1,0 +1,92 @@
+Available Models:
+------------------
+Model Name: models/gemini-1.0-pro-latest
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.0-pro
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-pro
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.0-pro-001
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.0-pro-vision-latest
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-pro-vision
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro-latest
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro-001
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro-002
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro-exp-0801
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-pro-exp-0827
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-latest
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-001
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-001-tuning
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-exp-0827
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-002
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-8b
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-8b-001
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-8b-latest
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-8b-exp-0827
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-1.5-flash-8b-exp-0924
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-2.0-flash-exp
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-exp-1206
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-exp-1121
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-exp-1114
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-2.0-flash-thinking-exp
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/gemini-2.0-flash-thinking-exp-1219
+  Limitations: Please refer to official documentation
+------------------
+Model Name: models/learnlm-1.5-pro-experimental
+  Limitations: Please refer to official documentation
+------------------
